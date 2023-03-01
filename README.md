@@ -25,6 +25,7 @@
 * [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
 * [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) ([GitHub](https://github.com/samwhelp/note-about-openbox/))
 * [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
+* [Wayfire 探索筆記](https://samwhelp.github.io/note-about-wayfire/) ([GitHub](https://github.com/samwhelp/note-about-wayfire/))
 
 
 ## samwhelp
