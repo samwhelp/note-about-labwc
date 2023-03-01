@@ -10,13 +10,16 @@
 * GitHub / [labwc](https://github.com/labwc/labwc)
 
 
-
 ## 主題
 
-
+* [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
 
 
+## 按鍵綁定
+
+* [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
+* [我的按鍵綁定](https://samwhelp.github.io/note-about-labwc/read/config/keybind.html)
 
 
 
