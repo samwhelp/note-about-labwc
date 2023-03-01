@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 開啟應用程式 (Rofi)
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L137-L145)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L143-L151)
 
 
 | 按鍵組合          | 功能                           | 執行指令                        |

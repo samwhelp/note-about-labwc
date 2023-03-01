@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 開啟應用程式 (Terminal)
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L161-L175)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L167-L181)
 
 
 | 按鍵組合          | 功能         | 執行指令                     |
