@@ -16,7 +16,7 @@ grand_parent: 設定
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
-| `Alt + Shift + x`  | Show Exit Panel | `wlogout` |
+| `Alt + Shift + c`  | 重新載入設定 | `Reconfigure` (labwc 內建) |
 
 
 ## 登出
@@ -26,7 +26,7 @@ grand_parent: 設定
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Alt + Shift + x`  | Show Exit Panel | `wlogout` |
-| `Alt + Ctrl + x`  | Exit | `Exit` (labwc 內建) |
+| `Alt + Ctrl + x`  | 登出 | `Exit` (labwc 內建) |
 
 
 ## 關機
@@ -36,4 +36,4 @@ grand_parent: 設定
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Alt + Shift + z`  | Show Exit Panel | `wlogout` |
-| `Alt + Ctrl + z`  | Exit | `systemctl -i poweroff` |
+| `Alt + Ctrl + z`  | 關機 | `systemctl -i poweroff` |
