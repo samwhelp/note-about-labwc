@@ -48,3 +48,10 @@ grand_parent: 設定
 | ----------------- | ---------------- |
 | `Alt + Shift + <` | 減小音量         | `amixer -q -D pulse sset Master 5%- unmute` |
 | `Alt + Shift + >` | 增加音量         | `amixer -q -D pulse sset Master 5%+ unmute` |
+
+
+
+
+## 用法對照
+
+* [螢幕亮度控制](https://samwhelp.github.io/note-about-labwc/read/config/keybind/monitor-brightness-control.html)
