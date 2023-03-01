@@ -26,7 +26,7 @@ grand_parent: 設定
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
 | `Alt + Shift + x`  | Show Exit Panel | `wlogout` |
-| `Alt + Ctrl + x`  | Exit | `Exit` (openbox 內建) |
+| `Alt + Ctrl + x`  | Exit | `Exit` (labwc 內建) |
 
 
 ## 關機
