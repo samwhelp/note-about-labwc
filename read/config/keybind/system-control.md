@@ -31,7 +31,7 @@ grand_parent: 設定
 
 ## 關機
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L131-L134)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L131-L136)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
