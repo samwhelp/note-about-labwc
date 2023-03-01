@@ -26,7 +26,7 @@ parent: 設定
 
 這篇的根據，是採用「[客製的設定](https://github.com/samwhelp/note-about-labwc/tree/gh-pages/_demo/config/labwc-config/main)」，
 
-請參考「我的設定檔: [~/.config/kglobalshortcutsrc](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml)」。
+請參考「我的設定檔: [~/.config/labwc/rc.xml](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml)」。
 
 
 > [桌面環境按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
