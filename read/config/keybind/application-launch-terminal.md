@@ -19,8 +19,3 @@ grand_parent: 設定
 | `Alt + Ctrl + a`  | 開啟 Terminal | `xfce4-terminal --maximize` |
 | `Alt + Shift + t` | 開啟 Terminal | `lxterminal`                     |
 | `Alt + Ctrl + t`  | 開啟 Terminal | `mate-terminal`                     |
-
-
-| 按鍵組合          | 功能                      | 執行指令                     |
-| ----------------- | ------------------------- | ---------------------------- |
-| `Alt + Shift + y` | 開啟 Terminal (Drop Down) | `xfce4-terminal --drop-down` |
