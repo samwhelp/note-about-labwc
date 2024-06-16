@@ -1,8 +1,22 @@
 <?xml version="1.0"?>
 
 <!--
-	This file contains all supported config elements & attributes with
-	default values.
+
+# Labwc / Config / rc.xml
+
+
+## Manual
+
+* https://labwc.github.io/labwc-config.5.html
+
+
+## Note
+
+```
+This file contains all supported config elements & attributes with
+default values.
+```
+
 -->
 
 <labwc_config>
@@ -22,19 +36,19 @@
 		<cornerRadius>8</cornerRadius>
 		<font place="ActiveWindow">
 			<name>sans</name>
-			<size>10</size>
+			<size>12</size>
 			<slant>normal</slant>
 			<weight>normal</weight>
 		</font>
 		<font place="MenuItem">
 			<name>sans</name>
-			<size>10</size>
+			<size>12</size>
 			<slant>normal</slant>
 			<weight>normal</weight>
 		</font>
 		<font place="OnScreenDisplay">
 			<name>sans</name>
-			<size>10</size>
+			<size>12</size>
 			<slant>normal</slant>
 			<weight>normal</weight>
 		</font>
@@ -117,6 +131,7 @@
 		your favourite terminal or application launcher. See rc.xml for an example.
 	-->
 	<keyboard>
+		<numlock>off</numlock>
 		<repeatRate>25</repeatRate>
 		<repeatDelay>600</repeatDelay>
 		<keybind key="A-Space">
@@ -156,7 +171,7 @@
 			<action name="Execute" command="thunar" />
 		</keybind>
 		<keybind key="A-S-b">
-			<action name="Execute" command="firefox" />
+			<action name="Execute" command="firefox --new-tab about:blank" />
 		</keybind>
 		<keybind key="A-S-e">
 			<action name="Execute" command="mousepad" />
@@ -177,7 +192,7 @@
 			<action name="Execute" command="lxterminal" />
 		</keybind>
 		<keybind key="A-C-t">
-			<action name="Execute" command="mate-terminal" />
+			<action name="Execute" command="qterminal" />
 		</keybind>
 		<keybind key="A-F3">
 			<action name="Execute" command="bemenu-run" />

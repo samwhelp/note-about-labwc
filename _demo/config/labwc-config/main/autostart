@@ -1,33 +1,65 @@
-# Example autostart file
+
 
 ##
-## Set background color.
+## # Example autostart file
 ##
+
+
+
+##
+## ## Set background color.
+##
+
 swaybg -c '#113344' >/dev/null 2>&1 &
 
 
+
+
 ##
-## Set background image
+## ## Desktop Background Image
 ##
+
 ~/.azotebg &
+#wf-background &
+#pcmanfm-qt --desktop --daemon-mode &
+
+
 
 
 ##
-## wf-shell
+## ## polkit
 ##
+
+/usr/libexec/xfce-polkit &
+
+
+
+
+##
+## ## wf-shell
+##
+
 wf-panel &
 
 
+
+
 ##
-## nm-applet
+## ## nm-applet
 ##
+
 nm-applet &
 
 
+
+
 ##
-## fcitx5
+## ## fcitx5
 ##
+
 fcitx5 &
+
+
 
 
 # Configure output directives such as mode, position, scale and transform.
