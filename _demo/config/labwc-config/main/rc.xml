@@ -18,7 +18,7 @@
 
 	<!-- <font><theme> can be defined without an attribute to set all places -->
 	<theme>
-		<name>NumixBlue</name>
+		<name>Numix</name>
 		<cornerRadius>8</cornerRadius>
 		<font place="ActiveWindow">
 			<name>sans</name>

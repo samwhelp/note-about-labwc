@@ -39,7 +39,7 @@
 
 <menu id="root-menu">
 	<item label="File Manager">
-		<action name="Execute" command="pcmanfm" />
+		<action name="Execute" command="pcmanfm-qt" />
 	</item>
 	<item label="Text Editor">
 		<action name="Execute" command="mousepad" />
