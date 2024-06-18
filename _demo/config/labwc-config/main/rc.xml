@@ -31,7 +31,10 @@ default values.
 		<cycleViewOutlines>yes</cycleViewOutlines>
 	</core>
 
-	<!-- <font><theme> can be defined without an attribute to set all places -->
+	<!--
+		<font><theme> can be defined without an attribute to set all places
+	-->
+
 	<theme>
 		<name>Numix</name>
 		<cornerRadius>8</cornerRadius>
@@ -56,6 +59,7 @@ default values.
 	</theme>
 
 	<!-- edge strength is in pixels -->
+
 	<resistance>
 		<screenEdgeStrength>20</screenEdgeStrength>
 	</resistance>
@@ -66,6 +70,7 @@ default values.
 	</focus>
 
 	<!-- Set range to 0 to disable window snapping completely -->
+
 	<snapping>
 		<range>1</range>
 		<topMaximize>yes</topMaximize>
@@ -87,6 +92,7 @@ default values.
 			</names>
 		</desktops>
 	-->
+
 	<desktops>
 		<!--
 			popupTime defaults to 1000 so could be left out.
@@ -131,6 +137,7 @@ default values.
 		element, and then (re-)define any special binds you need such as launching
 		your favourite terminal or application launcher. See rc.xml for an example.
 	-->
+
 	<keyboard>
 		<numlock>off</numlock>
 		<repeatRate>25</repeatRate>
@@ -156,6 +163,9 @@ default values.
 		<keybind key="A-C-z">
 			<action name="Execute" command="systemctl -i poweroff" />
 		</keybind>
+		<keybind key="A-C-Delete">
+			<action name="Execute" command="systemctl -i reboot" />
+		</keybind>
 		<keybind key="A-S-d">
 			<action name="Execute" command="rofi -show drun -show-icons" />
 		</keybind>
@@ -164,21 +174,6 @@ default values.
 		</keybind>
 		<keybind key="A-S-r">
 			<action name="Execute" command="rofi -show run" />
-		</keybind>
-		<keybind key="A-S-f">
-			<action name="Execute" command="pcmanfm-qt" />
-		</keybind>
-		<keybind key="A-S-g">
-			<action name="Execute" command="thunar" />
-		</keybind>
-		<keybind key="A-S-b">
-			<action name="Execute" command="firefox --new-tab about:blank" />
-		</keybind>
-		<keybind key="A-S-e">
-			<action name="Execute" command="mousepad" />
-		</keybind>
-		<keybind key="A-S-v">
-			<action name="Execute" command="mate-volume-control" />
 		</keybind>
 		<keybind key="A-Return">
 			<action name="Execute" command="sakura -m" />
@@ -195,6 +190,24 @@ default values.
 		<keybind key="A-C-t">
 			<action name="Execute" command="lxterminal" />
 		</keybind>
+		<keybind key="A-S-f">
+			<action name="Execute" command="pcmanfm-qt" />
+		</keybind>
+		<keybind key="A-S-g">
+			<action name="Execute" command="thunar" />
+		</keybind>
+		<keybind key="A-S-b">
+			<action name="Execute" command="firefox --new-tab about:blank" />
+		</keybind>
+		<keybind key="A-S-e">
+			<action name="Execute" command="mousepad" />
+		</keybind>
+		<keybind key="A-S-v">
+			<action name="Execute" command="mate-volume-control" />
+		</keybind>
+		<keybind key="A-S-n">
+			<action name="Execute" command="nm-connection-editor" />
+		</keybind>
 		<keybind key="A-F3">
 			<action name="Execute" command="bemenu-run" />
 		</keybind>
@@ -210,13 +223,13 @@ default values.
 		<keybind key="A-s">
 			<action name="GoToDesktop" to="right" />
 		</keybind>
-		<keybind key="A-Tab">
-			<action name="NextWindow" />
-		</keybind>
 		<keybind key="W-a">
 			<action name="PreviousWindow" />
 		</keybind>
 		<keybind key="W-s">
+			<action name="NextWindow" />
+		</keybind>
+		<keybind key="A-Tab">
 			<action name="NextWindow" />
 		</keybind>
 		<keybind key="W-q">
@@ -255,7 +268,8 @@ default values.
 		<keybind key="A-Right">
 			<action name="MoveToEdge" direction="right" />
 		</keybind>
-<!--
+
+		<!--
 
 		<keybind key="XF86_AudioMute">
 			<action name="Execute" command="amixer -q -D pulse sset Master Toggle" />
@@ -281,7 +295,9 @@ default values.
 		<keybind key="A-C-period">
 			<action name="Execute" command="amixer -q -D pulse sset Master 1%+ unmute" />
 		</keybind>
-//-->
+
+		//-->
+
 		<keybind key="XF86_AudioMute">
 			<action name="Execute" command="pamixer --toggle-mute" />
 		</keybind>
@@ -361,6 +377,7 @@ default values.
 		element, and then (re-)define any special binds you need such as launching
 		a custom menu when right-clicking on your desktop. See rc.xml for an example.
 	-->
+
 	<mouse>
 
 		<!-- time is in ms -->
@@ -519,6 +536,7 @@ default values.
 			- accelProfile [flat|adaptive]
 			- tapButtonMap [lrm|lmr]
 	-->
+
 	<libinput>
 		<device category="">
 			<naturalScroll></naturalScroll>
