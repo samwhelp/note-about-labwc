@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 開啟應用程式 (Rofi)
 
-* [開啟 Rofi](#開啟-Rofi)
+* [開啟 Rofi](#開啟-rofi)
 
 
 

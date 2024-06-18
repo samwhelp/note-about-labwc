@@ -9,6 +9,13 @@ grand_parent: 設定
 
 # 開啟應用程式 (Terminal)
 
+* [開啟 Terminal](#開啟-terminal)
+
+
+
+
+## 開啟 Terminal
+
 * [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L178-L192)
 
 
