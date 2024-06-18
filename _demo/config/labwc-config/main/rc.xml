@@ -255,6 +255,8 @@ default values.
 		<keybind key="A-Right">
 			<action name="MoveToEdge" direction="right" />
 		</keybind>
+<!--
+
 		<keybind key="XF86_AudioMute">
 			<action name="Execute" command="amixer -q -D pulse sset Master Toggle" />
 		</keybind>
@@ -279,6 +281,31 @@ default values.
 		<keybind key="A-C-period">
 			<action name="Execute" command="amixer -q -D pulse sset Master 1%+ unmute" />
 		</keybind>
+//-->
+		<keybind key="XF86_AudioMute">
+			<action name="Execute" command="pamixer --toggle-mute" />
+		</keybind>
+		<keybind key="XF86_AudioLowerVolume">
+			<action name="Execute" command="pamixer -d 5" />
+		</keybind>
+		<keybind key="XF86_AudioRaiseVolume">
+			<action name="Execute" command="pamixer -i 5" />
+		</keybind>
+		<keybind key="A-m">
+			<action name="Execute" command="pamixer --toggle-mute" />
+		</keybind>
+		<keybind key="W-S-comma">
+			<action name="Execute" command="pamixer -d 10" />
+		</keybind>
+		<keybind key="W-S-period">
+			<action name="Execute" command="pamixer -i 10" />
+		</keybind>
+		<keybind key="A-C-comma">
+			<action name="Execute" command="pamixer -d 5" />
+		</keybind>
+		<keybind key="A-C-period">
+			<action name="Execute" command="pamixer -i 5" />
+		</keybind>
 		<keybind key="XF86_MonBrightnessDown">
 			<action name="Execute" command="brightnessctl set 5%-" />
 		</keybind>
@@ -296,6 +323,18 @@ default values.
 		</keybind>
 		<keybind key="A-C-bracketright">
 			<action name="Execute" command="brightnessctl set +1%" />
+		</keybind>
+		<keybind key="Print">
+			<action name="Execute" command="grimshot save screen" />
+		</keybind>
+		<keybind key="A-Print">
+			<action name="Execute" command="grimshot save anything" />
+		</keybind>
+		<keybind key="W-Print">
+			<action name="Execute" command="grimshot save active" />
+		</keybind>
+		<keybind key="C-Print">
+			<action name="Execute" command="grimshot save area" />
 		</keybind>
 		<!-- SnapToRegion via W-Numpad -->
 		<!--

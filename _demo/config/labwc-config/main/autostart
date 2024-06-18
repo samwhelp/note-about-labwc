@@ -19,7 +19,8 @@ swaybg -c '#113344' >/dev/null 2>&1 &
 ## ## Desktop Background Image
 ##
 
-~/.azotebg &
+hyprpaper &
+#~/.azotebg &
 #wf-background &
 #pcmanfm-qt --desktop --daemon-mode &
 
