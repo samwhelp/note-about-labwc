@@ -19,6 +19,10 @@ grand_parent: 設定
 | `Ctrl + Print` | 選取螢幕畫面區塊截圖  | `grimshot save area` |
 
 
+
+
+## grimshot 用法
+
 執行
 
 ``` sh
