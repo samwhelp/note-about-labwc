@@ -190,10 +190,10 @@ default values.
 			<action name="Execute" command="xfce4-terminal --maximize" />
 		</keybind>
 		<keybind key="A-S-t">
-			<action name="Execute" command="lxterminal" />
+			<action name="Execute" command="qterminal" />
 		</keybind>
 		<keybind key="A-C-t">
-			<action name="Execute" command="qterminal" />
+			<action name="Execute" command="lxterminal" />
 		</keybind>
 		<keybind key="A-F3">
 			<action name="Execute" command="bemenu-run" />
