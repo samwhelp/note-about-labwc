@@ -10,7 +10,61 @@ grand_parent: 設定
 # 音量控制
 
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L242-L250)
+
+
+## pamixer 版本
+
+
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L285-L293)
+
+| 按鍵組合               | 功能           | 執行指令                                    |
+| ---------------------- | -------------- | ------------------------------------------- |
+| `XF86_AudioMute (XF86AudioMute)`        | 音量切換成靜音 | `pamixer --toggle-mute`     |
+| `XF86_AudioLowerVolume (XF86AudioLowerVolume)` | 減小音量       | `pamixer -d 5` |
+| `XF86_AudioRaiseVolume (XF86AudioRaiseVolume)` | 增加音量       | `pamixer -i 5` |
+
+
+
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L180-L182)
+
+| 按鍵組合          | 功能             | 執行指令                                    |
+| ----------------- | ---------------- | ------------------------------------------- |
+| `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
+
+
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L294-L308)
+
+| 按鍵組合          | 功能             | 執行指令                                    |
+| ----------------- | ---------------- |
+| `Alt + m`         | 音量切換成靜音   | `amixer -q -D pulse sset Master toggle`     |
+
+
+| 按鍵組合          | 功能             | 執行指令                                    |
+| ----------------- | ---------------- |
+| `Alt + Ctrl + ,`  | 緩慢地減小音量   | `pamixer -d 5` |
+| `Alt + Ctrl + .`  | 緩慢地增加音量   | `pamixer -i 5` |
+
+
+
+
+> TODO: Fix Not Work!
+
+| 按鍵組合          | 功能             | 執行指令                                    |
+| ----------------- | ---------------- |
+| `Alt + Shift + <` | 減小音量         | `pamixer -d 10` |
+| `Alt + Shift + >` | 增加音量         | `pamixer -i 10` |
+
+
+
+
+
+
+
+
+## amixer 版本
+
+
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L269-L268)
 
 | 按鍵組合               | 功能           | 執行指令                                    |
 | ---------------------- | -------------- | ------------------------------------------- |
@@ -20,14 +74,14 @@ grand_parent: 設定
 
 
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L164-L166)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L180-L182)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |
 | `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L251-L265)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L268-L283)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- |
