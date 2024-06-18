@@ -9,6 +9,9 @@ grand_parent: 設定
 
 # 音量控制
 
+* [pamixer 版本](#pamixer-版本)
+* [amixer 版本](#amixer-版本)
+
 
 
 
