@@ -9,7 +9,15 @@ grand_parent: 設定
 
 # 螢幕截圖
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L327-L338)
+* [截圖](#截圖)
+* [grimshot 用法](#grimshot-用法)
+
+
+
+
+## 截圖
+
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L343-L354)
 
 | 按鍵組合      | 功能                 | 執行指令   |
 | ------------- | -------------------- | ---------- |
