@@ -9,10 +9,14 @@ grand_parent: 設定
 
 # 視窗平鋪移動操作
 
+* [移動到側邊(side)](#移動到側邊side)
+
+
+
 
 ## 移動到側邊(side)
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L218-L229)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L247-L258)
 
 | 按鍵組合          | 功能           | 執行指令              |
 | ----------------- | -------------- | ---------------------------- |

@@ -9,8 +9,15 @@ grand_parent: 設定
 
 # 工作空間切換
 
+* [我個人定義的工作空間](#我個人定義的工作空間)
+* [循環切換](#循環切換)
 
-## 我個人定義的個工作空間
+
+
+
+## 我個人定義的工作空間
+
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L102-L108)
 
 | 工作空間 | 名稱  |
 | -------- | ----- |
@@ -21,9 +28,11 @@ grand_parent: 設定
 | 5        | Misc  |
 
 
+
+
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L191-L196)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L220-L225)
 
 
 | 按鍵組合  | 功能                 | 執行指令                   |
