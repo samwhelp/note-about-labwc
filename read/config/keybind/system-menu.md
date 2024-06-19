@@ -9,10 +9,15 @@ grand_parent: 設定
 
 # 系統選單
 
+* [顯示「視窗操作選單」](#顯示視窗操作選單)
+* [顯示「主要功能選單」](#顯示主要功能選單)
+
+
+
 
 ## 顯示「視窗操作選單」
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L122-L124)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L145-L147)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
@@ -21,9 +26,11 @@ grand_parent: 設定
 > 也可以在「視窗標題列」使用「滑鼠右鍵」，就會顯示「視窗操作選單」。
 
 
-## 顯示「桌面操作選單」
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L125-L127)
+
+## 顯示「主要功能選單」
+
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L148-L150)
 
 | 按鍵組合           | 功能        | 執行指令             |
 | ----------------- | ------------ | -------------------- |
