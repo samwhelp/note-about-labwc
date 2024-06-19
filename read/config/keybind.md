@@ -64,7 +64,7 @@ parent: 設定
 | 主題 |
 | --- |
 | [工作空間切換](keybind/workspace-switch) |
-| [視窗移到指定工作空間](keybind/window-move-to-workspace) |
+| [視窗移到工作空間](keybind/window-move-to-workspace) |
 
 
 ## 桌面圖片
