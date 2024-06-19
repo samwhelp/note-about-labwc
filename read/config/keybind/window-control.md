@@ -14,9 +14,11 @@ grand_parent: 設定
 * [最大化](#最大化)
 
 
+
+
 ## 關閉視窗
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L206-L211)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L235-L237)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | ----------------- | -------- | ---------------- |
@@ -26,9 +28,11 @@ grand_parent: 設定
 > 一般「關閉視窗」的按鍵綁定是在「`Alt + F4`」。
 
 
+
+
 ## 全螢幕
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L215-L217)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L244-L246)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
@@ -37,13 +41,14 @@ grand_parent: 設定
 > 一般「視窗全螢幕」的按鍵綁定是在「F11」。
 
 
+
+
 ## 最大化
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L212-L214)
+* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L241-L243)
 
 | 按鍵組合  | 功能       | 執行指令                      |
 | --------- | ---------- | ----------------------------- |
 | `Win + w` | 最大化 | `ToggleMaximize` (labwc 內建) |
 
 > 也可以在「視窗標題列」，使用「滑鼠左鍵」，點選兩下，切換視窗最大化。
-
