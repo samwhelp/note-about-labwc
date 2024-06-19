@@ -1,6 +1,10 @@
 
+
 # 首頁
 
+| Link | GitHub |
+| ---- | ------ |
+| [Labwc Adjustment](https://samwhelp.github.io/labwc-adjustment/) | [GitHub](https://github.com/samwhelp/labwc-adjustment) |
 | [Labwc 探索筆記](https://samwhelp.github.io/note-about-labwc/) | [GitHub](https://github.com/samwhelp/note-about-labwc) |
 
 
@@ -10,10 +14,13 @@
 * GitHub / [labwc](https://github.com/labwc/labwc)
 
 
+
+
 ## 主題
 
 * [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
+
 
 
 ## 按鍵綁定
@@ -23,14 +30,19 @@
 
 
 
+
 ## 相關筆記
 
-* [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
-* [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) ([GitHub](https://github.com/samwhelp/note-about-openbox/))
-* [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
-* [Wayfire 探索筆記](https://samwhelp.github.io/note-about-wayfire/) ([GitHub](https://github.com/samwhelp/note-about-wayfire/))
+| Link | GitHub |
+| ---- | ------ |
+| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox/) |
+| [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher/) |
+| [Wayfire 探索筆記](https://samwhelp.github.io/note-about-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-wayfire/) |
 
 
-## samwhelp
+
+
+## Samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
