@@ -16,7 +16,7 @@ grand_parent: 設定
 
 ## 亮度控制
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L325-L330)
+* [設定片段](https://github.com/samwhelp/labwc-adjustment/blob/main/prototype/main/labwc-config/Main/asset/overlay/etc/skel/.config/labwc/rc.xml#L325-L330)
 
 
 | 按鍵組合          | 功能             | 執行指令                                    |
@@ -25,7 +25,7 @@ grand_parent: 設定
 | `XF86_MonBrightnessUp (XF86MonBrightnessUp)` | 增加螢幕亮度         | `brightnessctl set +5%` |
 
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L331-L342)
+* [設定片段](https://github.com/samwhelp/labwc-adjustment/blob/main/prototype/main/labwc-config/Main/asset/overlay/etc/skel/.config/labwc/rc.xml#L331-L342)
 
 | 按鍵組合          | 功能             | 執行指令                                    |
 | ----------------- | ---------------- | ------------------------------------------- |

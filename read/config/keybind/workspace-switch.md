@@ -17,7 +17,7 @@ grand_parent: 設定
 
 ## 我個人定義的工作空間
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L102-L108)
+* [設定片段](https://github.com/samwhelp/labwc-adjustment/blob/main/prototype/main/labwc-config/Main/asset/overlay/etc/skel/.config/labwc/rc.xml#L102-L108)
 
 | 工作空間 | 名稱  |
 | -------- | ----- |
@@ -32,7 +32,7 @@ grand_parent: 設定
 
 ## 循環切換
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml#L220-L225)
+* [設定片段](https://github.com/samwhelp/labwc-adjustment/blob/main/prototype/main/labwc-config/Main/asset/overlay/etc/skel/.config/labwc/rc.xml#L220-L225)
 
 
 | 按鍵組合  | 功能                 | 執行指令                   |

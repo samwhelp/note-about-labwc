@@ -16,7 +16,7 @@ grand_parent: 設定
 
 ## 切換
 
-* [設定片段](https://github.com/samwhelp/note-about-labwc/blob/gh-pages/_demo/config/labwc-config/main/rc.xml)
+* [設定片段](https://github.com/samwhelp/labwc-adjustment/blob/main/prototype/main/labwc-config/Main/asset/overlay/etc/skel/.config/labwc/rc.xml)
 
 | 按鍵組合         | 功能                 | 執行指令                                         |
 | ---------------- | -------------------- | ------------------------------------------------ |

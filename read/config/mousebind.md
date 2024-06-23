@@ -79,7 +79,7 @@ parent: 設定
 
 | 相關連結 |
 | ------- |
-| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-labwc/read/config/keybind.html) |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-labwc/read/config/keybind.html) |
 
 
 
